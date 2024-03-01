@@ -1,0 +1,136 @@
+
+.symptoms-Dcj .symptoms-CS3 {
+  margin: 0rem 15.4rem 10.5rem 12.7rem;
+  width: calc(100% - 28.1rem);
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.symptoms-Dcj .symptoms-CS3 .symptoms-KFm {
+  margin: 0rem 0rem 10.1rem 1.2rem;
+  font-size: 2rem;
+  line-height: 1.2125;
+  color: #6f42c1;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.symptoms-Dcj .symptoms-CS3 .auto-group-kwrm-R3u {
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.symptoms-Dcj .symptoms-CS3 .auto-group-kwrm-R3u .rectangle-6-xJj {
+  margin-right: 4rem;
+  width: 59rem;
+  height: 36.1rem;
+  background-color: #d9d9d9;
+  flex-shrink: 0;
+}
+.symptoms-Dcj .symptoms-CS3 .auto-group-kwrm-R3u .symptos-VJf {
+  width: 52.9rem;
+  flex-shrink: 0;
+}
+.symptoms-Dcj .symptoms-CS3 .auto-group-kwrm-R3u .symptos-VJf .major-symptoms-are--F2w {
+  margin-bottom: 2.9807rem;
+  font-size: 1.6rem;
+  line-height: 1.2125;
+  color: #6f42c1;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.symptoms-Dcj .symptoms-CS3 .auto-group-kwrm-R3u .symptos-VJf .auto-group-rddp-Afh {
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+.symptoms-Dcj .symptoms-CS3 .auto-group-kwrm-R3u .symptos-VJf .auto-group-rddp-Afh .fever-or-chills-hvX {
+  margin: 0rem 28.6rem 0.419rem 0rem;
+  font-size: 1.6rem;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.symptoms-Dcj .symptoms-CS3 .auto-group-kwrm-R3u .symptos-VJf .auto-group-rddp-Afh .fever-or-chills-ZLT {
+  margin-top: 0.4193rem;
+  font-size: 1.6rem;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.symptoms-Dcj .symptoms-CS3 .auto-group-kwrm-R3u .symptos-VJf .auto-group-ugsz-gfy {
+  box-sizing: border-box;
+  padding-top: 4.3401rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.symptoms-Dcj .symptoms-CS3 .auto-group-kwrm-R3u .symptos-VJf .auto-group-ugsz-gfy .auto-group-hnay-RdZ {
+  margin: 0rem 0.2rem 3.514rem 0rem;
+  width: calc(100% - 0.2rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.symptoms-Dcj .symptoms-CS3 .auto-group-kwrm-R3u .symptos-VJf .auto-group-ugsz-gfy .auto-group-hnay-RdZ .cough-ZDy {
+  margin: 0rem 33.7rem 0.06rem 0rem;
+  font-size: 1.6rem;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.symptoms-Dcj .symptoms-CS3 .auto-group-kwrm-R3u .symptos-VJf .auto-group-ugsz-gfy .auto-group-hnay-RdZ .fever-or-chills-Urj {
+  margin-top: 0.0599rem;
+  font-size: 1.6rem;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.symptoms-Dcj .symptoms-CS3 .auto-group-kwrm-R3u .symptos-VJf .auto-group-ugsz-gfy .shortness-of-breath-or-difficulty-breathing-cT9 {
+  margin-bottom: 4.1665rem;
+  font-size: 1.6rem;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.symptoms-Dcj .symptoms-CS3 .auto-group-kwrm-R3u .symptos-VJf .auto-group-ugsz-gfy .muscle-or-body-aches-Xa7 {
+  margin-bottom: 4.1666rem;
+  font-size: 1.6rem;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.symptoms-Dcj .symptoms-CS3 .auto-group-kwrm-R3u .symptos-VJf .auto-group-ugsz-gfy .headache-fRR {
+  margin-bottom: 2.1532rem;
+  font-size: 1.6rem;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.symptoms-Dcj .symptoms-CS3 .auto-group-kwrm-R3u .symptos-VJf .auto-group-ugsz-gfy .for-more-information-click-here-Nqd {
+  margin-left: 27.9rem;
+  font-size: 1.6rem;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
