@@ -1,0 +1,353 @@
+.about-yDR {
+  box-sizing: border-box;
+  padding-bottom: 2rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.about-yDR .heading-usm {
+  margin: 0rem 0.5rem 2.4rem 0rem;
+  box-sizing: border-box;
+  padding: 8.6rem 9.3rem 6.3rem 23.1rem;
+  width: calc(100% - 0.5rem);
+  height: 18.5rem;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #000000;
+  background-color: #f0ecf9;
+  flex-shrink: 0;
+}
+.about-yDR .heading-usm .covid-pUw {
+  margin: 0rem 44.2rem 0.4rem 0rem;
+  font-size: 2.6rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.about-yDR .heading-usm .frame-1-jro {
+  margin-top: 1.7rem;
+  display: flex;
+  column-gap: 5.5rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.about-yDR .heading-usm .frame-1-jro .home-V5H {
+  font-size: 1.5rem;
+  font-weight: 900;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.about-yDR .heading-usm .frame-1-jro .about-RzX {
+  font-size: 1.5rem;
+  font-weight: 900;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.about-yDR .heading-usm .frame-1-jro .contact-aMd {
+  font-size: 1.5rem;
+  font-weight: 900;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.about-yDR .heading-usm .frame-1-jro .symptoms-iyd {
+  font-size: 1.5rem;
+  font-weight: 900;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.about-yDR .heading-usm .frame-1-jro .center-fts {
+  font-size: 1.5rem;
+  font-weight: 900;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.about-yDR .heading-usm .frame-1-jro .news-d51 {
+  font-size: 1.5rem;
+  font-weight: 900;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.about-yDR .about-wLb {
+  margin: 0rem 10.6rem 3.4rem 9.4rem;
+  width: calc(100% - 20rem);
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.about-yDR .about-wLb .about-fGb {
+  margin: 0rem 0rem 5.3rem 0.7rem;
+  font-size: 2rem;
+  line-height: 1.2125;
+  color: #6f42c1;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.about-yDR .about-wLb .auto-group-ngzb-yo5 {
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.about-yDR .about-wLb .auto-group-ngzb-yo5 .about-corona-Xpb {
+  margin: 2rem 6.2rem 0rem 0rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.about-yDR .about-wLb .auto-group-ngzb-yo5 .about-corona-Xpb .what-is-corona-virus-rrs {
+  margin-bottom: 5.8189rem;
+  font-size: 2rem;
+  line-height: 1.2125;
+  color: #6f42c1;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.about-yDR .about-wLb .auto-group-ngzb-yo5 .about-corona-Xpb .coronavirus-also-known-ascovid-19-is-an-infectious-disease-caused-by-thesars-cov-2-virus-it-affects-the-human-respiratory-system-leading-to-difficulty-in-breathing-CQw {
+  max-width: 56.1rem;
+  font-size: 1.6rem;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.about-yDR .about-wLb .auto-group-ngzb-yo5 .covid-19-SKH {
+  width: 61.7rem;
+  height: 26.3rem;
+  background-color: #d9d9d9;
+  flex-shrink: 0;
+  background-image: url("../image/COVID19.jpg");
+  background-size: cover;
+}
+.about-yDR .about-wLb .auto-group-mgi1-BXm {
+  box-sizing: border-box;
+  padding-top: 1.6rem;
+  width: 100%;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.about-yDR .about-wLb .auto-group-mgi1-BXm .auto-group-bqeh-XLj {
+  margin: 0rem 1.1rem 1.3rem 0rem;
+  width: calc(100% - 1.1rem);
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.about-yDR .about-wLb .auto-group-mgi1-BXm .auto-group-bqeh-XLj .variants-egF {
+  margin-right: 3.6rem;
+  width: 53.2rem;
+  height: 19.5rem;
+  background-color: #d9d9d9;
+  flex-shrink: 0;
+  background-image: url("../image/covidvariants.jpg");
+  background-size: cover;
+}
+.about-yDR .about-wLb .auto-group-mgi1-BXm .auto-group-bqeh-XLj .variants-bLb {
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.about-yDR .about-wLb .auto-group-mgi1-BXm .auto-group-bqeh-XLj .variants-bLb .variants-of-corona-virus-kjH {
+  margin-bottom: 3.1rem;
+  font-size: 2rem;
+  line-height: 1.2125;
+  color: #6f42c1;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.about-yDR .about-wLb .auto-group-mgi1-BXm .auto-group-bqeh-XLj .variants-bLb .new-variants-of-sars-cov-2-the-virus-that-causes-covid-19-will-continue-to-occur-gcw {
+  margin-bottom: 2.1rem;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.about-yDR .about-wLb .auto-group-mgi1-BXm .auto-group-bqeh-XLj .variants-bLb .cdc-coordinates-collaborative-partnerships-which-continue-to-fuel-the-largest-viral-genomic-sequencing-effort-to-date-C5V {
+  margin-bottom: 1.2rem;
+  max-width: 65rem;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.about-yDR .about-wLb .auto-group-mgi1-BXm .auto-group-bqeh-XLj .variants-bLb .the-omicron-variant-which-emerged-in-november-2021-has-many-lineages-new-lineages-continue-to-emerge-and-spread-in-the-united-states-and-globally-5QB {
+  max-width: 63rem;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.about-yDR .about-wLb .auto-group-mgi1-BXm .for-more-information-click-here-M6o {
+  margin-right: 2.2rem;
+  font-size: 1.6rem;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.about-yDR .social-media-links-T9q {
+  margin: 0rem 22rem 4.6rem 23.6rem;
+  width: calc(100% - 45.6rem);
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.about-yDR .social-media-links-T9q .social-media-links-aET {
+  margin: 0rem 0rem 0.7rem 1.7rem;
+  font-size: 1.6rem;
+  line-height: 1.2125;
+  color: #6f42c1;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.about-yDR .social-media-links-T9q .auto-group-wl6r-tkw {
+  width: 100%;
+  height: 10.1rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.about-yDR .social-media-links-T9q .auto-group-wl6r-tkw .group-2-SGf {
+  width: 98.3rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 0.1rem;
+  top: 7.7rem;
+  display: flex;
+  align-items: flex-end;
+}
+.about-yDR .social-media-links-T9q .auto-group-wl6r-tkw .group-2-SGf .whats-app-Zs5 {
+  margin: 0rem 21rem 0.4rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.about-yDR .social-media-links-T9q .auto-group-wl6r-tkw .group-2-SGf .facebook-JJs {
+  margin-right: 22.7rem;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.about-yDR .social-media-links-T9q .auto-group-wl6r-tkw .group-2-SGf .youtube-EiK {
+  margin-right: 24.1rem;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.about-yDR .social-media-links-T9q .auto-group-wl6r-tkw .group-2-SGf .instagram-BNf {
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.about-yDR .social-media-links-T9q .auto-group-wl6r-tkw .userregister-3-8Hu {
+  width: 6.5rem;
+  height: 7.2rem;
+  position: absolute;
+  left: 59.7rem;
+  top: 1rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.about-yDR .social-media-links-T9q .auto-group-wl6r-tkw .image-1-TLB {
+  width: 5.7rem;
+  height: 6rem;
+  position: absolute;
+  left: 0;
+  top: 1.7rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.about-yDR .social-media-links-T9q .auto-group-wl6r-tkw .image-2-bBV {
+  width: 6.8rem;
+  height: 6.7rem;
+  position: absolute;
+  left: 29.3rem;
+  top: 1.5rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.about-yDR .social-media-links-T9q .auto-group-wl6r-tkw .userregister-4-j2o {
+  width: 7.5rem;
+  height: 7.1rem;
+  position: absolute;
+  left: 89.5rem;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.about-yDR .footer-4Ky {
+  margin: 0rem 52.8rem 0rem 61.2rem;
+  width: calc(100% - 114rem);
+  height: 2rem;
+  overflow: hidden;
+  position: relative;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #6f42c1;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
